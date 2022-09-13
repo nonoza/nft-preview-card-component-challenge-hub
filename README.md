@@ -47,7 +47,6 @@ Users should be able to:
 - Mobile-first workflow
 
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 In this challenge I mainly continued practicing mobile-first flow as well as css. It was fun but challenging in doing a See hover states for interactive elements because it was challenging me.
